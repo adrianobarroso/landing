@@ -1,0 +1,54 @@
+body {
+  background-color: rgb(230,230,230);
+  /*background-image: url('https://unsplash.it/1000/800')*/
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+
+#banner {
+  padding: 50px;
+  background-image: url('https://unsplash.it/1000/800')
+}
+
+
+h2 {
+  font-family: 'Roboto', sans-serif;
+  color: rgba(255, 83, 13, 1.0);
+  font-size: 25px;
+  font-family: arial;
+}
+
+#banner {
+  color: rgb(240, 240, 240);
+  font-family: 'Roboto', sans-serif;
+  font-size: 35px;
+}
+
+a {
+  font-size: 20px;
+  font-weight: 900;
+  text-decoration: none;
+}
+
+.card {
+  /*width: 300px;
+  height: 300px;*/
+  padding: 20px;
+  margin: 40px;
+  /*background-color: rgb(220, 220, 220)*/
+}
+
+.card img {
+  width: 100px;
+}
+
+#footer {
+  width: 100%;
+  background-color: black;
+  padding: 50px;
+  color: white;
+}
+
+.i {
+  font-size: 100px;
+}
