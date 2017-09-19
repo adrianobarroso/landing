@@ -6,8 +6,9 @@ body {
 }
 
 #banner {
-  padding: 50px;
-  background-image: url('https://unsplash.it/1000/800')
+  padding: 200px 50px;
+  background-image: url('https://unsplash.it/1000/800?random');
+  background-size: cover;
 }
 
 
@@ -33,7 +34,7 @@ a {
 .card {
   /*width: 300px;
   height: 300px;*/
-  padding: 20px;
+  padding: 100px 30px;
   margin: 40px;
   /*background-color: rgb(220, 220, 220)*/
 }
@@ -49,6 +50,7 @@ a {
   color: white;
 }
 
-.i {
+#footer i {
+  padding: 0 20px;
   font-size: 100px;
 }
